@@ -24,6 +24,9 @@ namespace _3Y_2324_OOP_PP1_Bingo
             }
         }
 
+        /// <summary>
+        /// This method resets the card.
+        /// </summary>
         static void Initialize()
         {
             Console.Clear();
